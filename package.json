@@ -1,0 +1,33 @@
+{
+  "name": "splat",
+  "preferGlobal": false,
+  "version": "0.1.0",
+  "author": "James Andrews <jka6502@gmail.com>",
+  "description": "an unopinionated static site generator",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jka6502/splat.git"
+  },
+  "main": "",
+  "keywords": [
+    "static",
+    "website",
+    "site",
+    "generator"
+  ],
+  "dependencies": {
+    "eventemitter2": "0.4.x",
+    "glob": "3.x.x",
+    "handlebars": "2.x.x",
+    "highlight": "0.2.x",
+    "js-yaml": "3.x.x",
+    "marked": "0.3.x",
+    "sokkit": "0.4.x",
+    "stratum-framework": "0.5.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
